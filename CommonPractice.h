@@ -5,7 +5,7 @@
 int main()
 {
   std::string name;
-  int a;
+  int a, b;
   std::cout << "What is your name? ";
   return 0;
 }
