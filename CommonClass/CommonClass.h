@@ -1,7 +1,7 @@
 class CommonClass{
 
     public:
-        int a = 16;
+        int a = 17;
     protected:
 
     private:
