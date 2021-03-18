@@ -5,5 +5,5 @@ class CommonClass{
     protected:
 
     private:
-
+        void method();
 };
