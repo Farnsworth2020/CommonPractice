@@ -5,5 +5,5 @@ const int KEY_SAFE = 222;
 
 void CommonClass::method()
 {
-    
+    bool var = false;
 }
