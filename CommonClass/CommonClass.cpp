@@ -9,5 +9,5 @@ void CommonClass::method()
     bool var_2 = true;
     bool varthunder = true;
     int var_3 = 5;
-    int var_4 = 6;
+    int var_4 = 7;
 }
