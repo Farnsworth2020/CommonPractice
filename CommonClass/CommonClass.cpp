@@ -8,6 +8,6 @@ void CommonClass::method()
     bool var = false;
     bool var_2 = true;
     bool varthunder = true;
-    int var_3 = 5;
+    int var_3 = 6;
     int var_4 = 7;
 }
