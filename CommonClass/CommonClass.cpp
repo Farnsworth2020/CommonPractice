@@ -7,4 +7,5 @@ void CommonClass::method()
 {
     bool var = false;
     bool var_2 = true;
+    bool varthunder = true;
 }
