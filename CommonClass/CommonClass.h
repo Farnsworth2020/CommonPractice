@@ -6,4 +6,5 @@ class CommonClass{
 
     private:
         void method();
+        void method2();
 };
