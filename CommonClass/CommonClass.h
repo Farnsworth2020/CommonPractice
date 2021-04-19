@@ -7,5 +7,6 @@ class CommonClass{
     private:
         void method();
         void method2();
+        void method3();
         void method5();
 };
